@@ -9,3 +9,10 @@ I'd like to stude Javascript/Front-end at the The Rolling Scopes. My goal is lea
 
 ## Skils
 * Autocad
+
+## Code example
+```
+function multiply(a, b){
+ return a * b
+}
+```
