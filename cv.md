@@ -16,3 +16,12 @@ function multiply(a, b){
  return a * b
 }
 ```
+
+## Work experience
+No IT experience
+
+## Education
+Belarusian National technical university. Industrial and civil engineering.
+
+## English language
+English language Beginner
